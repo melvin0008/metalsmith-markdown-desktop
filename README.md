@@ -1,2 +1,2 @@
-# websitegenerator
-Automating the process of building websites for faculty members of UB
+# Metalsmith-markdown-desktop
+Metalsmith markdown tool for desktop
